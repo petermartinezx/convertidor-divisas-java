@@ -1,6 +1,16 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta es una aplicacion de calculadora de divisas simple desarrollada en Pyton utilizando POO. 
+
+**Asignatura:** Lenguajes de Programacion.
+**TSU:** Servicios en la Nube
+**Nombre:** Pedro Avisai
+**Apellidos:** MArtinez Avelar
+
+## Requisitos
+
+- Java SE 23
+- Biblioteca `gson-2.00.0`
 
 ## Folder Structure
 
