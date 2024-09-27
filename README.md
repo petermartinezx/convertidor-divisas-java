@@ -1,6 +1,6 @@
 ## Getting Started
 
-Esta es una aplicacion de calculadora de divisas simple desarrollada en Pyton utilizando POO. 
+Esta es una aplicacion de calculadora de divisas simple desarrollada en java usando libreria gson-2.11.0. 
 
 **Asignatura:** Lenguajes de Programacion.
 **TSU:** Servicios en la Nube
@@ -10,7 +10,7 @@ Esta es una aplicacion de calculadora de divisas simple desarrollada en Pyton ut
 ## Requisitos
 
 - Java SE 23
-- Biblioteca `gson-2.00.0`
+- Biblioteca `gson-2.11.0`
 
 ## Folder Structure
 
